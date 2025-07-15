@@ -12,6 +12,7 @@ It applies ethical AI principles using SHAP analysis, fairness audits (by income
 
 - Blog: [Read My Blog](https://www.linkedin.com/pulse/how-i-built-fair-explainable-college-admission-predictor-kumar-qgyuc)  
 - Code: [College Admission Predictor Repository](https://github.com/dhivvyesh/My-info/tree/main/college-admission-predictor)
+- Model Output Visuals: [Model_Charts.pdf](https://github.com/dhivvyesh/My-info/blob/main/college-admission-predictor/Model_Charts.pdf)
 
 ---
 
