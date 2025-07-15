@@ -10,7 +10,7 @@ I am an aspiring AI and Data Science enthusiast passionate about building respon
 A full-stack machine learning project that predicts student college admissions based on academic, extracurricular, and socio-demographic features.  
 It applies ethical AI principles using SHAP analysis, fairness audits (by income, school type, and parental education), and class balancing (SMOTE), with real model evaluation using scikit-learn.
 
-- Blog: [How I Built a Fair and Explainable College Admission Predictor](https://www.linkedin.com/pulse/how-i-built-fair-explainable-college-admission-predictor-kumar-qgyuc)  
+- Blog: [Read My Blog](https://www.linkedin.com/pulse/how-i-built-fair-explainable-college-admission-predictor-kumar-qgyuc)  
 - Code: [College Admission Predictor Repository](https://github.com/dhivvyesh/My-info/tree/main/college-admission-predictor)
 
 ---
