@@ -48,7 +48,7 @@ View full certification reflections: [Certifications Folder](https://github.com/
 
 ## Connect With Me
 
-- LinkedIn: [https://www.linkedin.com/in/YOUR-LINKEDIN/](https://www.linkedin.com/in/dhivvyesh-kumar-3727a636b/)  
+- LinkedIn: [My Linkein](https://www.linkedin.com/in/dhivvyesh-kumar-3727a636b/)  
 - Resume (PDF): [My Resume](https://github.com/dhivvyesh/My-info/blob/main/Resume.pdf)  
 - Email: dhivvyesh@gmail.com
 
