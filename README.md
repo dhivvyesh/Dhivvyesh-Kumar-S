@@ -1,6 +1,6 @@
 # Dhivvyesh Kumar
 
-I am an aspiring AI and Data Science enthusiast passionate about building responsible, human-centered technology. My work focuses on using data and machine learning not just for prediction, but for impact—especially in the fields of education, civic systems, and sustainability. I believe that fairness, explainability, and transparency are essential to any system meant to serve people.
+I am an aspiring AI and Data Science enthusiast passionate about building responsible, human-centered technology. My work focuses on using data and machine learning not just for prediction, but for impact—especially in the fields of waste management and sustainability. I believe that fairness, explainability, and transparency are essential to any system meant to serve people.
 
 ---
 
